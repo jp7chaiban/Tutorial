@@ -1,0 +1,10 @@
+https://ocr.space/OCRAPI
+
+offline
+
+https://github.com/blinkocr/blinkocr-android
+
+
+detect text 
+
+https://news.ycombinator.com/item?id=9775753
